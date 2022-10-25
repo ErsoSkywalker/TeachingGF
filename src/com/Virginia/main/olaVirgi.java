@@ -4,7 +4,7 @@ public class olaVirgi {
 
 	public static void main(String[] args) {
 		
-		a
+		
 		
 	}
 	
